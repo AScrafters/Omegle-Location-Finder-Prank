@@ -10,5 +10,8 @@ Then paste my code and hit enter
 
 Then select video chatting and make sure your console is open so whenever you meet someone it would show their exact location
 
-Also please be safe and healthy omegle is not a safe website there are alot of hackers if you're using omegle please use it with a VPNy
+Also please be safe and healthy omegle is not a safe website there are alot of hackers if you're using omegle please use it with a VPN
+
+
+
 [NOTE -: This will only work in video chat not text]
